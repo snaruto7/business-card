@@ -1,0 +1,19 @@
+{
+  "name": "shivam-card",
+  "version": "1.0.0",
+  "description": "This is Shivam's Card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snaruto7/business-card.git"
+  },
+  "author": "Shivam Narula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snaruto7/business-card/issues"
+  },
+  "homepage": "https://github.com/snaruto7/business-card#readme"
+}
